@@ -24,6 +24,9 @@ List of all known Custom Quiplash Episodes for use on The Jackbox Party Packs. N
 ## Funny Mario Pack
 - Funny Mario: YHN-RRWC
 
+## Jackbox Holiday Pack
+- Jackbox Holiday: RWB-NHQZ
+
 
 # Known Adult/NSFW Content Packs
 All packs that contain blatant adult/mature content will be found below
