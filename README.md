@@ -36,6 +36,9 @@ All packs that contain blatant adult/mature content will be found below
 - Other Expansions 1: SLD-ZMNM
 - Other Expansions 2: QSD-GBKQ 
 
+## Cards Against Rick and Morty
+- CA: Rick and Morty: GZM-RLFL
+
 ## Nasty Things Card Game
 - Nasty Things 1: KMF-XSVF
 - Nasty Things 2: SBQ-BVHR
