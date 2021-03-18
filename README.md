@@ -49,3 +49,6 @@ All packs that contain blatant adult/mature content will be found below
 
 ### Cards Against Furries
 - CAF: TDW-ZHDN
+
+### Letterkenny (NSFW)
+ - LK: HXJ-VMRW
