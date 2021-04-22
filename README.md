@@ -52,3 +52,6 @@ All packs that contain blatant adult/mature content will be found below
 
 ### Letterkenny (NSFW)
  - LK: HXJ-VMRW
+
+### Stop, You're Drunk
+ - SYD: XJB-ZEBQ
